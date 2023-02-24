@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "vscjava.vscode-java-pack",
+    "EditorConfig.EditorConfig",
+    "ms-vscode.atom-keybindings",
+    "wayou.vscode-todo-highlight",
+    "usernamehw.errorlens"
+  ],
+  "unwantedRecommendations": [
+    "dbaeumer.jshint",
+    "firefox-devtools.vscode-firefox-debug"
+  ]
+}
